@@ -5,7 +5,9 @@
 
 1) Simply cd into `my-app` 
 
-2) run `npm start`
+2) run `npm i`
+
+3) run `npm start`
 
 
 
@@ -38,7 +40,9 @@ In the event tests are returning errors check `scripts` within `package.json` in
 
 1) Simply cd into `server` 
 
-2) run `npm start`
+2) run `npm i`
+
+3) run `npm start`
 
 
 
