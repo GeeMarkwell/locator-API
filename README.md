@@ -31,6 +31,8 @@ In the event tests are returning errors check `scripts` within `package.json` in
 
 1) cd into 'server'
 
+2) run `npm i`
+
 3) docker build -t "`anything`/`app`:`version` . " (recommended format) 
 
 2) sudo docker run -p 8080:8080 --name `image name`  -d `anything`/`app`:`version` (this is what you put for Step 2 ) 
@@ -39,8 +41,6 @@ In the event tests are returning errors check `scripts` within `package.json` in
     TO START BACKEND SERVER
 
 1) Simply cd into `server` 
-
-2) run `npm i`
 
 3) run `npm start`
 
